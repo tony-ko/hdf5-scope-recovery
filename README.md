@@ -1,5 +1,5 @@
 # hdf5-scope-recovery
-Corrupted data recovery from an oscilloscope Matlab/HDF5 file.
+Data recovery from a corrupted oscilloscope Matlab/HDF5 file.
 
 Sometimes, it happens that the time traces (or waveforms) that are exported from an oscilloscope (e.g., from Keysight brand) get corrupted, and you cannot import them to Python or Matlab.
 While being rare, such a situation can create a lot of frustration and grey hair.
